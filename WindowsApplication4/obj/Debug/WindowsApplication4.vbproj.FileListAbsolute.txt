@@ -1,0 +1,10 @@
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+E:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+E:\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
